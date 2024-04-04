@@ -71,5 +71,6 @@ void loop()
 
 
 
-### RESULTS AND DISCUSSION 
+### RESULTS:
 
+Thus, the speed and the direction of a DC motor using L293D driver ic( H- bridge) is controlled.
