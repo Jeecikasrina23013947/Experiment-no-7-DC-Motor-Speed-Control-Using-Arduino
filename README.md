@@ -1,11 +1,12 @@
 ![image](https://github.com/vasanthkumarch/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/36288975/739cc470-48c8-4873-a730-6319b4afc602)
-###  DATE: 
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT:
+###  NAME: JEECIKASRINA M
+###  ROLL NO :212223100015
+###  DEPARTMENT:CSE(CYBER SECURITY)
 # Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
-### AIM : To control the speed and the direction of a DC motor using L293D driver ic( H- bridge)
+### AIM :
+
+To control the speed and the direction of a DC motor using L293D driver ic( H- bridge)
 
 ### Components Required:
 •	Arduino UNO board
